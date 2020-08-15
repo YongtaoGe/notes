@@ -1,4 +1,5 @@
-baseURL = "http://yongtaoge.github.io/"
+baseURL = "http://yongtaoge.github.io/notes/"
+canonifyURLs = true
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 # defaultContentLanguage = "en"
