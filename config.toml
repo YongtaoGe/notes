@@ -1,4 +1,4 @@
-baseURL = "http://yongtaoge.github.io/blog"
+baseURL = "http://yongtaoge.github.io/notes"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 # defaultContentLanguage = "en"
@@ -8,7 +8,7 @@ defaultContentLanguage = "zh-cn"
 theme = "LoveIt"
 # themes directory
 # 主题目录
-# themesDir = "../.."
+themesDir = "./themes/"
 
 # website title
 # 网站标题
@@ -19,7 +19,7 @@ title = "LoveIt"
 enableRobotsTXT = true
 # whether to use git commit log
 # 是否使用 git 信息
-enableGitInfo = true
+enableGitInfo = false
 # whether to use emoji code
 # 是否使用 emoji 代码
 enableEmoji = true
@@ -160,7 +160,7 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        GitHub = "xxxx"
+        GitHub = "yongtaoge"
         Linkedin = ""
         Twitter = "xxxx"
         Instagram = "xxxx"
@@ -338,11 +338,11 @@ enableEmoji = true
         rss = 10
         # 主页个人信息
         [languages.zh-cn.params.home.profile]
-          enable = true
+          enable = false
           # Gravatar 邮箱，用于优先在主页显示的头像
           gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = "/static/images/avatar.png"
+          avatarURL = "/static/android-chrome-512x512.png"
           # 主页显示的网站标题 (支持 HTML 格式)
           title = ""
           # 主页显示的网站副标题
@@ -360,7 +360,7 @@ enableEmoji = true
           paginate = 6
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
-        GitHub = "xxxx"
+        GitHub = "yongtaoge"
         Linkedin = ""
         Twitter = ""
         Instagram = ""
@@ -398,7 +398,7 @@ enableEmoji = true
         Hackernews = ""
         Kickstarter = ""
         Patreon = ""
-        Steam = "xxxx"
+        # Steam = "xxxx"
         Twitch = ""
         Strava = ""
         Skype = ""
@@ -658,7 +658,7 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "LoveIt"
+      name = "GYT"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='far fa-kiss-wink-heart fa-fw'></i>"
@@ -678,13 +678,13 @@ enableEmoji = true
     custom = ''
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
-    hugo = true
+    hugo = false
     # whether to show copyright info
     # 是否显示版权信息
     copyright = true
     # whether to show the author
     # 是否显示作者
-    author = true
+    author = false
     # site creation time
     # 网站创立年份
     since = 2020
@@ -775,7 +775,7 @@ enableEmoji = true
     # KaTeX mathematical formulas config (KaTeX https://katex.org/)
     # KaTeX 数学公式配置 (KaTeX https://katex.org/)
     [params.page.math]
-      enable = false
+      enable = true
       # default block delimiter is $$ ... $$ and \\[ ... \\]
       # 默认块定界符是 $$ ... $$ 和 \\[ ... \\]
       blockLeftDelimiter = ""
@@ -818,8 +818,8 @@ enableEmoji = true
     # 文章页面的分享信息设置
     [params.page.share]
       enable = true
-      Twitter = true
-      Facebook = true
+      Twitter = false
+      Facebook = false
       Linkedin = false
       Whatsapp = false
       Pinterest = false
