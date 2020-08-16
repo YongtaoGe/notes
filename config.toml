@@ -2,7 +2,7 @@ baseURL = "http://yongtaoge.github.io/notes/"
 
 # all relative URLs would instead be canonicalized using baseURL
 # https://gohugo.io/content-management/urls/#canonicalization
-canonifyURLs = true
+# canonifyURLs = true
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 # defaultContentLanguage = "en"
