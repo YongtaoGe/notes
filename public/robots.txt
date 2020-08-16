@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: http://yongtaoge.github.io/en/sitemap.xml
+Sitemap: https://yongtaoge.github.io/en/sitemap.xml
