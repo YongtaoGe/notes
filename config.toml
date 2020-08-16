@@ -1,4 +1,4 @@
-baseURL = "http://yongtaoge.github.io/notes/"
+baseURL = "http://yongtaoge.github.io/"
 
 # all relative URLs would instead be canonicalized using baseURL
 # https://gohugo.io/content-management/urls/#canonicalization
