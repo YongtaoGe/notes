@@ -7,10 +7,6 @@
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/theme-documentation-basics/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/theme-documentation-basics/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://yongtaoge.github.io/notes/theme-documentation-basics/"
@@ -19,10 +15,6 @@
                         rel="alternate"
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/theme-documentation-content/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/theme-documentation-content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -33,10 +25,6 @@
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/theme-documentation-extended-shortcodes/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/theme-documentation-extended-shortcodes/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://yongtaoge.github.io/notes/theme-documentation-extended-shortcodes/"
@@ -45,10 +33,6 @@
                         rel="alternate"
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/basic-markdown-syntax/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/basic-markdown-syntax/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -59,10 +43,6 @@
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/emoji-support/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/emoji-support/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://yongtaoge.github.io/notes/emoji-support/"
@@ -71,10 +51,6 @@
                         rel="alternate"
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/categories/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -85,10 +61,6 @@
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://yongtaoge.github.io/notes/"
@@ -97,10 +69,6 @@
                         rel="alternate"
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/posts/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -111,10 +79,6 @@
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/tags/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/tags/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://yongtaoge.github.io/notes/tags/"
@@ -123,10 +87,6 @@
                         rel="alternate"
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/tags/installation/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/tags/installation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -137,10 +97,6 @@
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/categories/documentation/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/categories/documentation/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://yongtaoge.github.io/notes/categories/documentation/"
@@ -149,10 +105,6 @@
                         rel="alternate"
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/tags/configuration/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/tags/configuration/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -163,10 +115,6 @@
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/tags/markdown/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/tags/markdown/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://yongtaoge.github.io/notes/tags/markdown/"
@@ -175,10 +123,6 @@
                         rel="alternate"
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/tags/content/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/tags/content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -189,10 +133,6 @@
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/tags/shortcodes/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/tags/shortcodes/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://yongtaoge.github.io/notes/tags/shortcodes/"
@@ -201,10 +141,6 @@
                         rel="alternate"
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/tags/html/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/tags/html/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
@@ -215,10 +151,6 @@
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/categories/markdown/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/categories/markdown/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://yongtaoge.github.io/notes/categories/markdown/"
@@ -228,10 +160,6 @@
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/tags/emoji/"
                         /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/tags/emoji/"
-                        /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
                     href="http://yongtaoge.github.io/notes/tags/emoji/"
@@ -240,10 +168,6 @@
                         rel="alternate"
                         hreflang="en"
                         href="http://yongtaoge.github.io/notes/en/about/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="http://yongtaoge.github.io/notes/fr/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
